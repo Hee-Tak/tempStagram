@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278043523622",
+    "project_id": "tempstagram20231216",
+    "storage_bucket": "tempstagram20231216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278043523622:android:d36ef0c533bc8f35fc04e7",
+        "android_client_info": {
+          "package_name": "com.tak.tempstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dkIbe-Zwlb9jrmwakK_4BwvsTcSwXEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
